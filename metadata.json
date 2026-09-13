@@ -1,0 +1,8 @@
+{
+  "name": "PDFLovesYou",
+  "description": "A comprehensive suite of PDF tools inspired by iLovePDF, with merge, split, compress, convert, edit, and real-time mobile QR scanner capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
